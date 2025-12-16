@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "風を食む",
+  "base_artist": "ヨルシカ",
+  "createdAt": "2025-12-16T06:13:17.393803Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "風を食む",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_風を食む_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "風を食む",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_風を食む_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "風を食む",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/03_風を食む_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "風を食む",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/04_風を食む_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "風を食む",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/05_風を食む_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "風を食む",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/06_風を食む_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "風を食む - Eat the Wind",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/07_風を食む_-_Eat_the_Wind_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "風を食む (Eat the Wind)",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/08_風を食む_(Eat_the_Wind)_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "風を食む",
+      "artist": "ヨルシカ (Yorushika)",
+      "has_synced": true,
+      "path": "select/09_風を食む_ヨルシカ_(Yorushika).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "風を食む",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/10_風を食む_ヨルシカ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "風を食む",
+      "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/pl_01_風を食む_ヨルシカ.txt"
+    }
+  ]
+}
